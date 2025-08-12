@@ -11,7 +11,7 @@ from data_loader import load_car_data, get_embedding
 
 # Initialize OpenAI Grok client
 client = OpenAI(
-    api_key="xai-y1wct4shqtO1QC0H2kXWZsHLbbqMHOSWigNC2Bb440OYfoTGhlj8Yiitd1ek6qqfVsF5ylAhfM4Xer8A",
+    api_key="xai-",
     base_url="https://api.x.ai/v1"
 )
 
